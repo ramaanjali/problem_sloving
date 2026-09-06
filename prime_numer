@@ -22,7 +22,8 @@ for num in range(2,n+1):
     if prime:
        print(num,end=" ")
 
-    #    using while loop 
+
+#using while loop 
 n=8
 i=2
 count=0
